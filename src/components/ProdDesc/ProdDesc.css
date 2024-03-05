@@ -1,0 +1,21 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 80%;
+    padding: 20px;
+    align-items: center;
+    row-gap: 20px;
+    column-gap: 50px;
+    margin: 10%;
+}
+.prodimage{
+    height: 300px;
+}
+.perpieceprice{
+    color: rgb(151, 150, 144);
+}
+.pdesc{
+    font-style: italic;
+    font-size: small;
+}

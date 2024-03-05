@@ -1,0 +1,15 @@
+.page-link{
+    color: black;
+    font-size: small;
+    background: none;
+}
+.page-item.active{
+    background-color: none;
+}
+.page-item{
+    margin-left: 0;
+    margin-right: 0;
+}
+.pagination{
+    justify-content: center;
+}
