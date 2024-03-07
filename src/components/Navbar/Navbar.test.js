@@ -40,6 +40,4 @@ describe("Navbar Component", () => {
     
     expect(cartIcon).toBeInTheDocument();
   });
-
-  // Add more tests as needed for specific interactions or functionalities.
 });
